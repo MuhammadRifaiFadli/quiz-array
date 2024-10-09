@@ -2,6 +2,8 @@
 
 Proyek ini adalah aplikasi kuis sederhana yang dibuat menggunakan PHP. Aplikasi ini memungkinkan pengguna untuk menjawab beberapa soal pilihan ganda dan mendapatkan skor berdasarkan jawaban yang mereka pilih.
 
+<img src="quiz.png">
+
 ## Fitur
 
 - Menampilkan daftar soal pilihan ganda.
